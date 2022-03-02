@@ -5,7 +5,7 @@
 ![](https://img.shields.io/github/contributors/upmanager/rn-social-buttons)
 
 <p>
-<img src="https://github.com/upmanager/rn-social-buttons/blob/master/preview.png?raw=true" />
+<img src="https://github.com/upmanager/rn-social-buttons/blob/main/preview.png?raw=true" />
 </p>
 
 ## Installation
