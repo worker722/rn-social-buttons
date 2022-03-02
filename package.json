@@ -1,0 +1,40 @@
+{
+  "author": {
+    "name": "UP Manager"
+  },
+  "bugs": {
+    "url": "https://github.com/upmanager/rn-social-buttons/issues"
+  },
+  "dependencies": {
+  },
+  "description": "Declarative social button components for React Native.",
+  "devDependencies": {
+    "prettier": "^2.1.1",
+    "react": "16.5.0",
+    "react-native": "^0.57.1"
+  },
+  "files": [
+    "src"
+  ],
+  "homepage": "https://github.com/upmanager/rn-social-buttons/blob/master/README.md",
+  "keywords": [
+    "react-native",
+    "react-component",
+    "social",
+    "button",
+    "buttons",
+    "component"
+  ],
+  "license": "Apache-2.0",
+  "main": "src/index.js",
+  "name": "rn-social-buttons",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upmanager/rn-social-buttons.git"
+  },
+  "version": "1.0.0"
+}
