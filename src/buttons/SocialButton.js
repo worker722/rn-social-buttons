@@ -33,6 +33,7 @@ export default class SocialButton extends React.Component {
       <TouchableOpacity
         style={[styles.buttonStyle, { backgroundColor }, buttonViewStyle]}
         onPress={onPress}
+        disabled={!onPress}
       >
         <Image
           source={iconSource}
