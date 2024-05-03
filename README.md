@@ -2,10 +2,10 @@
 
 ![](https://img.shields.io/npm/dm/rn-social-buttons)
 ![](https://img.shields.io/npm/v/rn-social-buttons)
-![](https://img.shields.io/github/contributors/upmanager/rn-social-buttons)
+![](https://img.shields.io/github/contributors/worker722/rn-social-buttons)
 
 <p>
-<img src="https://github.com/upmanager/rn-social-buttons/blob/main/preview.png?raw=true" />
+<img src="https://github.com/worker722/rn-social-buttons/blob/main/preview.png?raw=true" />
 </p>
 
 ## Installation
